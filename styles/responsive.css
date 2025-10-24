@@ -1,0 +1,68 @@
+@media screen and (max-width: 1024px) {
+    nav, main, footer {
+        padding: 20px;
+    }
+
+    .why_dev {
+        padding: 20px;
+    }
+    .why_dev .frame {
+        flex-direction: column;
+    }
+
+    .why_dev .frame .img_site {
+        order: -1;
+    }
+
+    .frame .text_content {
+        text-align: center;
+    }
+    .my_current_target .cards {
+        flex-direction: column;
+    }
+    .tails {
+        flex-direction: column;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    main {
+        padding: 20px;
+    }
+
+    .hero_content h1 {
+        font-size: 32px;
+    }
+
+    .why_dev {
+        padding: 20px;
+    }
+
+    .why_dev_text {
+        padding: 0;
+    }
+     .why_dev .frame {
+        padding: 20px;
+    }
+
+    .support_text form {
+        flex-direction: column;
+    }
+    .support_text input {
+        width: 100%;
+    }
+    .support_text button {
+        width: 100px;
+    }
+
+    footer {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
