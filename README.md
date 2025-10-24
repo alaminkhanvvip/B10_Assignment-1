@@ -24,7 +24,7 @@ Responsive portfolio website built with HTML5 and CSS3 for Programming Hero Batc
 
 ## Quick Start
 ```bash
-git clone https://github.com/alamin247khan/B10_Assignment-1.git
+git clone https://github.com/alaminkhanvvip/B10_Assignment-1.git
 cd B10_Assignment-1
 ```
 Open `index.html` in your browser.
